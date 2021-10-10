@@ -1,0 +1,16 @@
+D:\Documents\myproject\categoriserAge\obj\Debug\net5.0\categoriserAge.csproj.AssemblyReference.cache
+D:\Documents\myproject\categoriserAge\obj\Debug\net5.0\categoriserAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\myproject\categoriserAge\obj\Debug\net5.0\categoriserAge.AssemblyInfoInputs.cache
+D:\Documents\myproject\categoriserAge\obj\Debug\net5.0\categoriserAge.AssemblyInfo.cs
+D:\Documents\myproject\categoriserAge\obj\Debug\net5.0\categoriserAge.csproj.CoreCompileInputs.cache
+D:\Documents\myproject\categoriserAge\bin\Debug\net5.0\categoriserAge.exe
+D:\Documents\myproject\categoriserAge\bin\Debug\net5.0\categoriserAge.deps.json
+D:\Documents\myproject\categoriserAge\bin\Debug\net5.0\categoriserAge.runtimeconfig.json
+D:\Documents\myproject\categoriserAge\bin\Debug\net5.0\categoriserAge.runtimeconfig.dev.json
+D:\Documents\myproject\categoriserAge\bin\Debug\net5.0\categoriserAge.dll
+D:\Documents\myproject\categoriserAge\bin\Debug\net5.0\ref\categoriserAge.dll
+D:\Documents\myproject\categoriserAge\bin\Debug\net5.0\categoriserAge.pdb
+D:\Documents\myproject\categoriserAge\obj\Debug\net5.0\categoriserAge.dll
+D:\Documents\myproject\categoriserAge\obj\Debug\net5.0\ref\categoriserAge.dll
+D:\Documents\myproject\categoriserAge\obj\Debug\net5.0\categoriserAge.pdb
+D:\Documents\myproject\categoriserAge\obj\Debug\net5.0\categoriserAge.genruntimeconfig.cache
